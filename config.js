@@ -2,20 +2,20 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 global.available = true
-global.autoReadGc = true
+global.autoReadGc = false
 global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919060791616']
-global.OwnerNumber = ['919006765023']
-global.ownertag = ['919006765023']
-global.BotName = "chiku"
-global.packname = "chiku-bot"
-global.author = "By: Ayush"
-global.OwnerName = "Ayush"
-global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
+global.Owner = ['923180327106']
+global.OwnerNumber = ['923180327106']
+global.ownertag = ['923180327106']
+global.BotName = "𝐑𝐢𝐳𝐰𝐚𝐧 𝐀𝐥𝐢"
+global.packname = "𝐑𝐢𝐳𝐰𝐚𝐧 𝐀𝐥𝐢"
+global.author = "By: 𝐑𝐢𝐳𝐰𝐚𝐧"
+global.OwnerName = "𝐑𝐢𝐳𝐰𝐚𝐧"
+global.BotSourceCode = "https://github.com/Ayush-pandey-u/Aim-MD"
+global.SupportGroupLink = "https://chat.whatsapp.com/ESHNXj3JtiR2N56zR8x5kp"
 global.sessionName = "session"
 
 // Prefix //
@@ -24,8 +24,8 @@ global.prefa = ['-']
 
 
 global.location = "bihar, India"
-global.reactmoji = "❤️"
-global.themeemoji = "🍭"
+global.reactmoji = "💫"
+global.themeemoji = "🌎"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/Ayush-pandey-u/Chiku-MD"
 global.lolhuman = "KaysaS"
